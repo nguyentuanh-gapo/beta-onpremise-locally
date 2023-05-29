@@ -1,0 +1,12 @@
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+
+# dependencies
+/node_modules
+/.history
+/.pnp
+.pnp.js
